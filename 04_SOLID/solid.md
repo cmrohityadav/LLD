@@ -25,3 +25,7 @@ Dependency Inversion Principle (DIP)
 - Each class should do one thing only, and do it well.
 - ek class ek kaam
 
+
+# O — Open/Closed Principle (OCP)
+- Software entities should be open for extension but closed for modification.
+- It uses Abstraction,Inheritance,polymorphism
