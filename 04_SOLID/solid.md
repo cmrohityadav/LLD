@@ -29,3 +29,9 @@ Dependency Inversion Principle (DIP)
 # O — Open/Closed Principle (OCP)
 - Software entities should be open for extension but closed for modification.
 - It uses Abstraction,Inheritance,polymorphism
+
+# L — Liskov Substitution Principle (LSP)
+- Subclasses should be substitutable  for their Base classes
+- Subtypes must be substitutable for their base types
+- Example: If Bird has a method fly(), a subclass Penguin should not inherit it unless it logically supports flying
+- 
