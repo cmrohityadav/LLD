@@ -34,4 +34,4 @@ Dependency Inversion Principle (DIP)
 - Subclasses should be substitutable  for their Base classes
 - Subtypes must be substitutable for their base types
 - Example: If Bird has a method fly(), a subclass Penguin should not inherit it unless it logically supports flying
-- 
+
