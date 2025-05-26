@@ -35,3 +35,7 @@ Dependency Inversion Principle (DIP)
 - Subtypes must be substitutable for their base types
 - Example: If Bird has a method fly(), a subclass Penguin should not inherit it unless it logically supports flying
 
+## Rule to follow for LSP
+- Signature Rule
+- Property Rule
+- Method Rule
