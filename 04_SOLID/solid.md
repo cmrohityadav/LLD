@@ -38,4 +38,9 @@ Dependency Inversion Principle (DIP)
 ## Rule to follow for LSP
 - Signature Rule
 - Property Rule
+    - Class Invariant
+        - Some set of Rules for class which should follow by child class
+    - History Constraint
 - Method Rule
+
+
